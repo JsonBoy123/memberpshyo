@@ -1,0 +1,13 @@
+[04-Jul-2020 13:03:51] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/index.php on line 17
+[04-Jul-2020 13:03:51] PHP Notice:  Use of undefined constant __DIR__ - assumed '__DIR__' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/index.php on line 21
+[04-Jul-2020 13:03:51] PHP Warning:  require_once(__DIR__/public/index.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/physaorg/member.physiotherapyindia.org/physiotherapy/index.php on line 21
+[04-Jul-2020 13:03:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '__DIR__/public/index.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/physaorg/member.physiotherapyindia.org/physiotherapy/index.php on line 21
+[12-Jul-2020 21:58:59] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in phar:///usr/local/bin/composer/bin/composer on line 10
+[12-Jul-2020 22:21:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in phar:///usr/local/bin/composer/bin/composer on line 10
+[12-Jul-2020 22:44:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in phar:///usr/local/bin/composer/bin/composer on line 10
+[12-Jul-2020 22:48:20 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/vendor/ocramius/package-versions/src/PackageVersions/Installer.php on line 3
+[12-Jul-2020 22:48:20 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/vendor/ocramius/package-versions/src/PackageVersions/Installer.php on line 77
+[12-Jul-2020 23:07:04] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in phar:///usr/local/bin/composer/bin/composer on line 10
+[15-Jul-2020 12:54:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[15-Jul-2020 12:54:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[15-Jul-2020 13:01:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/physaorg/member.physiotherapyindia.org/physiotherapy/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500

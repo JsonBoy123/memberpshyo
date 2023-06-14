@@ -1,0 +1,8 @@
+{
+    "Blog": true,
+    "Member": true,
+    "Category": true,
+    "Admin": true,
+    "Db:seed": true,
+    "QualificationsTableSeeder": true
+}

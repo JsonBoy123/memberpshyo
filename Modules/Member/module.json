@@ -1,0 +1,13 @@
+{
+    "name": "Member",
+    "alias": "member",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Member\\Providers\\MemberServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
